@@ -5,4 +5,4 @@ The code starts from the point we have gathered the realtime flow data from a ha
 11 metaphors are included. 
 
 Adaptations and use of (parts of) the software is allowed with appropriate attribution (right license will be chosen upon release). 
-For research this includes a clear reference to our first paper.
+For research this includes a clear reference to our first paper. For commercial applications attribution can be included in a splash screen, home screen, or about page; we do urge the adaptor to include it within the executable accesible to the end-user. 
