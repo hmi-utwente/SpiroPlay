@@ -11,12 +11,12 @@ For research this includes a clear reference to our first paper: https://dl.acm.
 
 For commercial applications attribution can be included in a splash screen, home screen, or about page; we urge the adaptor to include it within the executable accesible to the end-user. 
 
-Some parts of the project have dependencies on 3rd party Unity Assets, we can't share these parts of the project. This also means that the project is likely to result in build errors when just using this version.
+The project files are to be openen in Unity version 2019.3.2f1. Some parts of the project have dependencies on 3rd party Unity Assets, we can't share these parts of the project. This also means that the project is likely to result in build errors when just using this version.
 We might find a way to help you to re-include these parts, in order to do this contact us personally. 
 We will ask verification of having the following third party assets linked to the involved Unity accounts: 
-- Gif playback asset from store
-- Soft Alpha UI mask asset
-- Confetti GFX asset
+- Soft Alpha UI mask (https://assetstore.unity.com/packages/tools/particles-effects/soft-alpha-ui-mask-50339)
+- Confetti GFX (https://assetstore.unity.com/packages/vfx/particles/confetti-fx-82497)
+- Awesome Charts and Graphs (https://assetstore.unity.com/packages/tools/gui/awesome-charts-and-graphs-138153)
 
 The visuals of the responsive metaphors can be found here https://www.youtube.com/watch?v=v008TQ3_FsA.
 
