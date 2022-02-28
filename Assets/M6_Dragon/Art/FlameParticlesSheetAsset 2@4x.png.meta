@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 51bc66d95eb664c4491a9be518581dca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9140234898757762885
+    second: FlameParticlesSheetAsset 2@4x_0
+  - first:
+      213: 5319872349077284885
+    second: FlameParticlesSheetAsset 2@4x_1
+  - first:
+      213: -4277538542702654243
+    second: FlameParticlesSheetAsset 2@4x_2
+  - first:
+      213: -1607357965462690178
+    second: FlameParticlesSheetAsset 2@4x_3
+  - first:
+      213: 177654228554060275
+    second: FlameParticlesSheetAsset 2@4x_4
+  - first:
+      213: 335687207071593329
+    second: FlameParticlesSheetAsset 2@4x_5
+  - first:
+      213: -7511541588981875142
+    second: FlameParticlesSheetAsset 2@4x_6
+  - first:
+      213: 7924353778423472043
+    second: FlameParticlesSheetAsset 2@4x_7
+  - first:
+      213: -3236514072658801036
+    second: FlameParticlesSheetAsset 2@4x_8
+  - first:
+      213: 6193343460376802538
+    second: FlameParticlesSheetAsset 2@4x_9
+  - first:
+      213: 2505010163469088966
+    second: FlameParticlesSheetAsset 2@4x_10
+  - first:
+      213: 9007470249930541897
+    second: FlameParticlesSheetAsset 2@4x_11
+  - first:
+      213: 6309910425192436517
+    second: FlameParticlesSheetAsset 2@4x_12
+  - first:
+      213: 3162124266790595825
+    second: FlameParticlesSheetAsset 2@4x_13
+  - first:
+      213: 3210719439046757467
+    second: FlameParticlesSheetAsset 2@4x_14
+  - first:
+      213: -6698439357536823417
+    second: FlameParticlesSheetAsset 2@4x_15
+  - first:
+      213: -4476588190990947034
+    second: FlameParticlesSheetAsset 2@4x_16
+  - first:
+      213: -6730056868051141138
+    second: FlameParticlesSheetAsset 2@4x_17
+  - first:
+      213: 1056335425787320858
+    second: FlameParticlesSheetAsset 2@4x_18
+  - first:
+      213: 3047351145363888709
+    second: FlameParticlesSheetAsset 2@4x_19
+  - first:
+      213: 5361124283227268408
+    second: FlameParticlesSheetAsset 2@4x_20
+  - first:
+      213: -9151887602256946707
+    second: FlameParticlesSheetAsset 2@4x_21
+  - first:
+      213: 5609647627750034565
+    second: FlameParticlesSheetAsset 2@4x_22
+  - first:
+      213: 3223000867345633409
+    second: FlameParticlesSheetAsset 2@4x_23
+  - first:
+      213: -295617921045893299
+    second: FlameParticlesSheetAsset 2@4x_24
+  - first:
+      213: 807979579534504182
+    second: FlameParticlesSheetAsset 2@4x_25
+  - first:
+      213: -2461364049725516249
+    second: FlameParticlesSheetAsset 2@4x_26
+  - first:
+      213: -5680618985868295682
+    second: FlameParticlesSheetAsset 2@4x_27
+  - first:
+      213: 6390932403311261087
+    second: FlameParticlesSheetAsset 2@4x_28
+  - first:
+      213: -2831881097609081163
+    second: FlameParticlesSheetAsset 2@4x_29
+  - first:
+      213: -7007013422973492419
+    second: FlameParticlesSheetAsset 2@4x_30
+  - first:
+      213: -4479401621019139170
+    second: FlameParticlesSheetAsset 2@4x_31
+  - first:
+      213: 6057243949819981894
+    second: FlameParticlesSheetAsset 2@4x_32
+  - first:
+      213: -7051323605607425295
+    second: FlameParticlesSheetAsset 2@4x_33
+  - first:
+      213: -2198629385891604852
+    second: FlameParticlesSheetAsset 2@4x_34
+  - first:
+      213: 8881735156430259208
+    second: FlameParticlesSheetAsset 2@4x_35
+  - first:
+      213: 6143680773687078136
+    second: FlameParticlesSheetAsset 2@4x_36
+  - first:
+      213: 2851357138835737518
+    second: FlameParticlesSheetAsset 2@4x_37
+  - first:
+      213: -5710570734833419247
+    second: FlameParticlesSheetAsset 2@4x_38
+  - first:
+      213: 3886972009625777946
+    second: FlameParticlesSheetAsset 2@4x_39
+  - first:
+      213: -3461077609846951059
+    second: FlameParticlesSheetAsset 2@4x_40
+  - first:
+      213: 2612314577488439739
+    second: FlameParticlesSheetAsset 2@4x_41
+  - first:
+      213: -8855440255943551867
+    second: FlameParticlesSheetAsset 2@4x_42
+  - first:
+      213: 5056533829516644505
+    second: FlameParticlesSheetAsset 2@4x_43
+  - first:
+      213: -2111785069436960655
+    second: FlameParticlesSheetAsset 2@4x_44
+  - first:
+      213: -5043799474181877296
+    second: FlameParticlesSheetAsset 2@4x_45
+  - first:
+      213: 2625480123486013277
+    second: FlameParticlesSheetAsset 2@4x_46
+  - first:
+      213: -6872967677674519671
+    second: FlameParticlesSheetAsset 2@4x_47
+  - first:
+      213: 4773046585934073329
+    second: FlameParticlesSheetAsset 2@4x_48
+  - first:
+      213: -245992267226101551
+    second: FlameParticlesSheetAsset 2@4x_49
+  - first:
+      213: 2612375011044926262
+    second: FlameParticlesSheetAsset 2@4x_50
+  - first:
+      213: -4314863769397788122
+    second: FlameParticlesSheetAsset 2@4x_51
+  - first:
+      213: -4690272677603645556
+    second: FlameParticlesSheetAsset 2@4x_52
+  - first:
+      213: -5722771054106040575
+    second: FlameParticlesSheetAsset 2@4x_53
+  - first:
+      213: -1298382263354612363
+    second: FlameParticlesSheetAsset 2@4x_54
+  - first:
+      213: -954795366893194329
+    second: FlameParticlesSheetAsset 2@4x_55
+  - first:
+      213: 7151132626564933259
+    second: FlameParticlesSheetAsset 2@4x_56
+  - first:
+      213: 8988643143897518329
+    second: FlameParticlesSheetAsset 2@4x_57
+  - first:
+      213: -2217415716829680666
+    second: FlameParticlesSheetAsset 2@4x_58
+  - first:
+      213: -8296384826421408785
+    second: FlameParticlesSheetAsset 2@4x_59
+  - first:
+      213: 8557044153670881416
+    second: FlameParticlesSheetAsset 2@4x_60
+  - first:
+      213: -2058254389447276188
+    second: FlameParticlesSheetAsset 2@4x_61
+  - first:
+      213: 5711877270943278732
+    second: FlameParticlesSheetAsset 2@4x_62
+  - first:
+      213: -659355537800410543
+    second: FlameParticlesSheetAsset 2@4x_63
+  - first:
+      213: -351457628798563730
+    second: FlameParticlesSheetAsset 2@4x_64
+  - first:
+      213: -3728680097302661465
+    second: FlameParticlesSheetAsset 2@4x_65
+  - first:
+      213: 6347964545445208078
+    second: FlameParticlesSheetAsset 2@4x_66
+  - first:
+      213: -8430567118058989665
+    second: FlameParticlesSheetAsset 2@4x_67
+  - first:
+      213: -4280139417624983440
+    second: FlameParticlesSheetAsset 2@4x_68
+  - first:
+      213: 528601770171830054
+    second: FlameParticlesSheetAsset 2@4x_69
+  - first:
+      213: 5473718127704715250
+    second: FlameParticlesSheetAsset 2@4x_70
+  - first:
+      213: 3160132461611623541
+    second: FlameParticlesSheetAsset 2@4x_71
+  - first:
+      213: -5762382102389208745
+    second: FlameParticlesSheetAsset 2@4x_72
+  - first:
+      213: 3934934965907189977
+    second: FlameParticlesSheetAsset 2@4x_73
+  - first:
+      213: 3022862660610743593
+    second: FlameParticlesSheetAsset 2@4x_74
+  - first:
+      213: 9014660003645493517
+    second: FlameParticlesSheetAsset 2@4x_75
+  - first:
+      213: 3393072914082538265
+    second: FlameParticlesSheetAsset 2@4x_76
+  - first:
+      213: 8105233003380037806
+    second: FlameParticlesSheetAsset 2@4x_77
+  - first:
+      213: 5587381760324601514
+    second: FlameParticlesSheetAsset 2@4x_78
+  - first:
+      213: -7981874133090918260
+    second: FlameParticlesSheetAsset 2@4x_79
+  - first:
+      213: -186451720960875398
+    second: FlameParticlesSheetAsset 2@4x_80
+  - first:
+      213: -6046111013765045379
+    second: FlameParticlesSheetAsset 2@4x_81
+  - first:
+      213: 5404306590055670368
+    second: FlameParticlesSheetAsset 2@4x_82
+  - first:
+      213: -2345317406425353712
+    second: FlameParticlesSheetAsset 2@4x_83
+  - first:
+      213: 1245958514098058597
+    second: FlameParticlesSheetAsset 2@4x_84
+  - first:
+      213: -5822119015034211653
+    second: FlameParticlesSheetAsset 2@4x_85
+  - first:
+      213: -3421013987624948609
+    second: FlameParticlesSheetAsset 2@4x_86
+  - first:
+      213: -2280268314390538181
+    second: FlameParticlesSheetAsset 2@4x_87
+  - first:
+      213: 2498273545022355663
+    second: FlameParticlesSheetAsset 2@4x_88
+  - first:
+      213: 2573709611617172130
+    second: FlameParticlesSheetAsset 2@4x_89
+  - first:
+      213: 6656081595953923402
+    second: FlameParticlesSheetAsset 2@4x_90
+  - first:
+      213: 8700421341576433878
+    second: FlameParticlesSheetAsset 2@4x_91
+  - first:
+      213: 1236258095124890740
+    second: FlameParticlesSheetAsset 2@4x_92
+  - first:
+      213: -5942185032706906227
+    second: FlameParticlesSheetAsset 2@4x_93
+  - first:
+      213: -8839322241928804119
+    second: FlameParticlesSheetAsset 2@4x_94
+  - first:
+      213: -4007532497876108815
+    second: FlameParticlesSheetAsset 2@4x_95
+  - first:
+      213: 7802361749072690596
+    second: FlameParticlesSheetAsset 2@4x_96
+  - first:
+      213: -7901833752127285766
+    second: FlameParticlesSheetAsset 2@4x_97
+  - first:
+      213: 3876276538851695356
+    second: FlameParticlesSheetAsset 2@4x_98
+  - first:
+      213: -445055502324858779
+    second: FlameParticlesSheetAsset 2@4x_99
+  - first:
+      213: -5541317946818285706
+    second: FlameParticlesSheetAsset 2@4x_100
+  - first:
+      213: 2150231688801010090
+    second: FlameParticlesSheetAsset 2@4x_101
+  - first:
+      213: -6483277670750302718
+    second: FlameParticlesSheetAsset 2@4x_102
+  - first:
+      213: -6485919516589819040
+    second: FlameParticlesSheetAsset 2@4x_103
+  - first:
+      213: 4241356953182687675
+    second: FlameParticlesSheetAsset 2@4x_104
+  - first:
+      213: 1019307078515786322
+    second: FlameParticlesSheetAsset 2@4x_105
+  - first:
+      213: 342043811895692043
+    second: FlameParticlesSheetAsset 2@4x_106
+  - first:
+      213: 675920901042198067
+    second: FlameParticlesSheetAsset 2@4x_107
+  - first:
+      213: -5259339725325185945
+    second: FlameParticlesSheetAsset 2@4x_108
+  - first:
+      213: 2789714806174402348
+    second: FlameParticlesSheetAsset 2@4x_109
+  - first:
+      213: 4512704295844382917
+    second: FlameParticlesSheetAsset 2@4x_110
+  - first:
+      213: 7169020316269119724
+    second: FlameParticlesSheetAsset 2@4x_111
+  - first:
+      213: -7979504111667609108
+    second: FlameParticlesSheetAsset 2@4x_112
+  - first:
+      213: -99276789376433436
+    second: FlameParticlesSheetAsset 2@4x_113
+  - first:
+      213: 6527430891070867613
+    second: FlameParticlesSheetAsset 2@4x_114
+  - first:
+      213: -7214782175292342174
+    second: FlameParticlesSheetAsset 2@4x_115
+  - first:
+      213: 7954854720638501001
+    second: FlameParticlesSheetAsset 2@4x_116
+  - first:
+      213: -8334660605961357288
+    second: FlameParticlesSheetAsset 2@4x_117
+  - first:
+      213: -7238419107185806090
+    second: FlameParticlesSheetAsset 2@4x_118
+  - first:
+      213: 5806963163652904467
+    second: FlameParticlesSheetAsset 2@4x_119
+  - first:
+      213: -8080691392887492116
+    second: FlameParticlesSheetAsset 2@4x_120
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlameParticlesSheetAsset 2@4x_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7176
+        width: 305
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fb510a633a8de70800000000000000
+      internalID: 9140234898757762885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameParticlesSheetAsset 2@4x_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6309
+        width: 325
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518ac2137bbf3d940800000000000000
+      internalID: 5319872349077284885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameParticlesSheetAsset 2@4x_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 5264
+        width: 211
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc8a29db5123a4c0800000000000000
+      internalID: -4277538542702654243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameParticlesSheetAsset 2@4x_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4277
+        width: 316
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a3b1527481b9e0800000000000000
+      internalID: -1607357965462690178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameParticlesSheetAsset 2@4x_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3251
+        width: 242
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f19fc16497277200800000000000000
+      internalID: 177654228554060275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameParticlesSheetAsset 2@4x_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2046
+        width: 277
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173352d7cb998a400800000000000000
+      internalID: 335687207071593329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameParticlesSheetAsset 2@4x_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 375
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e792109b4a1c790800000000000000
+      internalID: -7511541588981875142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameParticlesSheetAsset 2@4x_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 328
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf9475c6c5f8fd60800000000000000
+      internalID: 7924353778423472043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

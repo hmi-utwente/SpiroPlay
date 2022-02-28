@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92528c0b-0c63-4e54-a4ce-c6e2c7865c05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../PlaygroundVR alpha/Assets/Scripts/Player/RaycastManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/ConnectionWarnings/ConnectionCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M0_Test/M12_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/SpiroController/RealtimeDataProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M6_Dragon/Scripts/Oil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Transition/LevelChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/SpiroController/SessionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M9_Soccer/M9_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M7_Dog/M7_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M7_Dog/DogBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/Statics/SpiroResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/Statics/Math.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Menu_LevelSelection/CurrencyCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/SpiroController/Spiro_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/SpiroController/Logger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M11_Fishing/Scripts/EnvironmentSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M1_Car/CarBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M1_Car/M1_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M3_Balloons/Scripts/M3_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/ScriptableObjects/Settings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Menu_Options/UserDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M8_Bowling/Scripts/Bowlingball_Behavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/Statics/ExtensionMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M7_Dog/ShampooBottleBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M8_Bowling/Scripts/Camera_Behavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M2_Diving/Scripts/Schoonspringer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M8_Bowling/Scripts/M8_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M3_Balloons/Scripts/ProgressBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/ScriptableObjects/Datastream.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M9_Soccer/AudienceBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M2_Diving/Scripts/M2_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/Statics/Validation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Menu_LevelSelection/MetaphorButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Menu_UserSelection/UserSelectionMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M11_Fishing/Scripts/NetBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M6_Dragon/Scripts/Flammable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M3_Balloons/Scripts/CameraBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/Debugging/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M4_Tides/Scripts/M4_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/Debugging/PlotBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/Debugging/GarbageCollector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Menu_LevelSelection/LevelSelectionMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M6_Dragon/Scripts/M6_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/ScriptableObjects/FeedbackConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/ScriptableObjects/Cooldown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M9_Soccer/CameraBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M11_Fishing/Scripts/CameraBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Menu_Options/OptionsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M10_Hurdles/Scripts/M10_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/SpiroController/FakeDataImporter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Menu_Main/MainMenuBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/SpiroController/SpiroReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Menu_History/HistoryMenuBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M11_Fishing/Scripts/M11_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M0_Test/M0_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Overlay/Overlay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/SpiroController/UserStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spirometry/Statics/SpiroResultSimple.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../PlaygroundVR alpha/Assets/Scripts/General/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../PlaygroundVR alpha/Assets/Scripts/General/HardwareManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/M5_Dandelion/Scripts/M5_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Menus/Menu_History/HistoryInfoPanel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/M9_Soccer/CameraBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/M2_Diving/Scripts/M2_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/M10_Hurdles/Scripts/M10_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/M5_Dandelion/Scripts/M5_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/RandomizeColorOnStart.cs" />
+        <option value="$PROJECT_DIR$/Assets/M3_Balloons/Scripts/ProgressBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/M7_Dog/ShampooBottleBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/Statics/Math.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/SpiroController/RealtimeEmulator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/Editor/CustomInspector_Emulator.cs" />
+        <option value="$PROJECT_DIR$/Assets/M6_Dragon/Scripts/Oil.cs" />
+        <option value="$PROJECT_DIR$/Assets/M11_Fishing/Scripts/M11_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/M11_Fishing/Scripts/CameraBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/M11_Fishing/Scripts/NetBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/M11_Fishing/Scripts/EnvironmentSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/M6_Dragon/Scripts/Flammable.cs" />
+        <option value="$PROJECT_DIR$/Assets/M7_Dog/M7_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/M3_Balloons/Scripts/M3_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/M8_Bowling/Scripts/M8_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/M8_Bowling/Scripts/Discoball_Behavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/Statics/SpiroResultSimple.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/Statics/SpiroResult.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/ScriptableObjects/Storage.cs" />
+        <option value="$PROJECT_DIR$/Assets/M0_Test/M12_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Menu_LevelSelection/CurrencyCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Menu_LevelSelection/MetaphorButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/ScriptableObjects/UserStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Menu_History/HistoryInfoPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Menu_Main/MainMenuBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Overlay/Overlay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/SpiroController/Logger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/ScriptableObjects/Settings.cs" />
+        <option value="$PROJECT_DIR$/Assets/M4_Tides/Scripts/Tourist.cs" />
+        <option value="$PROJECT_DIR$/Assets/M4_Tides/Scripts/M4_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Menu_Options/UserDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/SpiroController/UserStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/SpiroController/SessionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Menu_LevelSelection/LevelSelectionMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Menu_History/HistoryMenuBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/M3_Balloons/Scripts/BalloonBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/M6_Dragon/Scripts/M6_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/SpiroController/SpiroReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/Statics/SpiroData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/SpiroController/RealtimeDataProcessor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/SpiroController/Spiro_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/M9_Soccer/M9_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Menu_UserSelection/UserSelectionMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/ConnectionWarnings/ConnectionCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Menu_Options/OptionsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Menus/Tutorial/TutorialController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spirometry/Statics/Validation.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QjTq8DzMktOmc98S8Lodq9OcJ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_Android_plugin_suggestion" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92528c0b-0c63-4e54-a4ce-c6e2c7865c05" name="Default Changelist" comment="" />
+      <created>1568283193857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568283193857</updated>
+      <workItem from="1568283197809" duration="4166000" />
+      <workItem from="1568714101121" duration="1040000" />
+      <workItem from="1568983037234" duration="8067000" />
+      <workItem from="1569144579439" duration="12520000" />
+      <workItem from="1569242132370" duration="8490000" />
+      <workItem from="1569493646070" duration="2000" />
+      <workItem from="1569493652977" duration="139000" />
+      <workItem from="1569586360078" duration="2250000" />
+      <workItem from="1569758165085" duration="18852000" />
+      <workItem from="1569826640767" duration="1862000" />
+      <workItem from="1569849099344" duration="221000" />
+      <workItem from="1569849763838" duration="2145000" />
+      <workItem from="1570092028515" duration="3269000" />
+      <workItem from="1570128702312" duration="3476000" />
+      <workItem from="1570137070366" duration="1052000" />
+      <workItem from="1570176190083" duration="1234000" />
+      <workItem from="1570387607941" duration="3008000" />
+      <workItem from="1570401198499" duration="6114000" />
+      <workItem from="1570793363669" duration="4080000" />
+      <workItem from="1571041823950" duration="255000" />
+      <workItem from="1571042939153" duration="231000" />
+      <workItem from="1571044089998" duration="25000" />
+      <workItem from="1571044133489" duration="6912000" />
+      <workItem from="1571304403707" duration="14000" />
+      <workItem from="1571304433948" duration="28000" />
+      <workItem from="1571428318103" duration="9698000" />
+      <workItem from="1571663694367" duration="1266000" />
+      <workItem from="1571753102265" duration="2931000" />
+      <workItem from="1571814712482" duration="1654000" />
+      <workItem from="1571864758008" duration="4650000" />
+      <workItem from="1571988095163" duration="6894000" />
+      <workItem from="1572014954090" duration="49000" />
+      <workItem from="1572255613686" duration="6339000" />
+      <workItem from="1572344868129" duration="10947000" />
+      <workItem from="1572427575260" duration="1704000" />
+      <workItem from="1572515254136" duration="4876000" />
+      <workItem from="1572553065795" duration="4093000" />
+      <workItem from="1572691930328" duration="2044000" />
+      <workItem from="1572694313491" duration="1019000" />
+      <workItem from="1572712494724" duration="1777000" />
+      <workItem from="1572726325496" duration="27000" />
+      <workItem from="1572728039138" duration="536000" />
+      <workItem from="1572787724627" duration="2239000" />
+      <workItem from="1572949344963" duration="3298000" />
+      <workItem from="1572965123008" duration="4467000" />
+      <workItem from="1573466053311" duration="382000" />
+      <workItem from="1573509553745" duration="599000" />
+      <workItem from="1574164256512" duration="470000" />
+      <workItem from="1574248164263" duration="7194000" />
+      <workItem from="1575225187672" duration="618000" />
+      <workItem from="1575300443860" duration="4350000" />
+      <workItem from="1575549020670" duration="287000" />
+      <workItem from="1575736707318" duration="12163000" />
+      <workItem from="1575901141828" duration="1705000" />
+      <workItem from="1576233026662" duration="103000" />
+      <workItem from="1576233349034" duration="539000" />
+      <workItem from="1576249550094" duration="106000" />
+      <workItem from="1576271165365" duration="1342000" />
+      <workItem from="1581286844830" duration="664000" />
+      <workItem from="1581418744073" duration="3254000" />
+      <workItem from="1582318121005" duration="790000" />
+      <workItem from="1582473777488" duration="677000" />
+      <workItem from="1583227837378" duration="1275000" />
+      <workItem from="1583318780062" duration="1378000" />
+      <workItem from="1584537914827" duration="1741000" />
+      <workItem from="1584548224005" duration="424000" />
+      <workItem from="1584550920944" duration="519000" />
+      <workItem from="1584627862212" duration="6052000" />
+      <workItem from="1584697817237" duration="2145000" />
+      <workItem from="1584714817036" duration="1804000" />
+      <workItem from="1584833296881" duration="8166000" />
+      <workItem from="1584908685858" duration="1361000" />
+      <workItem from="1586879262175" duration="1116000" />
+      <workItem from="1586880469589" duration="5776000" />
+      <workItem from="1586962107294" duration="680000" />
+      <workItem from="1587031718904" duration="13843000" />
+      <workItem from="1587063525461" duration="2680000" />
+      <workItem from="1587110954219" duration="2725000" />
+      <workItem from="1587117705503" duration="3581000" />
+      <workItem from="1587132760152" duration="2109000" />
+      <workItem from="1587139179340" duration="1593000" />
+      <workItem from="1587202234374" duration="2183000" />
+      <workItem from="1587296301623" duration="1044000" />
+      <workItem from="1587306244337" duration="176000" />
+      <workItem from="1587388218547" duration="2373000" />
+      <workItem from="1587394927340" duration="133000" />
+      <workItem from="1587409841375" duration="1841000" />
+      <workItem from="1587475912046" duration="600000" />
+      <workItem from="1587476528150" duration="7392000" />
+      <workItem from="1587554318524" duration="50000" />
+      <workItem from="1587565486416" duration="1008000" />
+      <workItem from="1587567199035" duration="2012000" />
+      <workItem from="1587640131504" duration="1255000" />
+      <workItem from="1589547321670" duration="1050000" />
+      <workItem from="1589810091280" duration="1435000" />
+      <workItem from="1590484094164" duration="5236000" />
+      <workItem from="1590573899688" duration="1658000" />
+      <workItem from="1590676669056" duration="12029000" />
+      <workItem from="1590708040826" duration="69000" />
+      <workItem from="1590751189853" duration="4827000" />
+      <workItem from="1590968497439" duration="1879000" />
+      <workItem from="1590970901878" duration="89000" />
+      <workItem from="1591099898806" duration="787000" />
+      <workItem from="1591279284399" duration="1229000" />
+      <workItem from="1591350554062" duration="202000" />
+      <workItem from="1592237600338" duration="5000" />
+      <workItem from="1592405429271" duration="2006000" />
+      <workItem from="1592429612504" duration="3544000" />
+      <workItem from="1592657428778" duration="648000" />
+      <workItem from="1592821642739" duration="892000" />
+      <workItem from="1593020637103" duration="126000" />
+      <workItem from="1608302243389" duration="1302000" />
+      <workItem from="1613923612862" duration="2382000" />
+      <workItem from="1614439158848" duration="3219000" />
+      <workItem from="1614602438645" duration="1904000" />
+      <workItem from="1615115161781" duration="4845000" />
+      <workItem from="1617265793761" duration="15142000" />
+      <workItem from="1617370704300" duration="9531000" />
+      <workItem from="1617387631877" duration="15796000" />
+      <workItem from="1617407669618" duration="117000" />
+      <workItem from="1617443832606" duration="6049000" />
+      <workItem from="1617551516273" duration="8124000" />
+      <workItem from="1617615154352" duration="1366000" />
+      <workItem from="1617629449889" duration="1819000" />
+      <workItem from="1619094011453" duration="12027000" />
+      <workItem from="1619255105907" duration="15024000" />
+      <workItem from="1619358508272" duration="5189000" />
+      <workItem from="1619374943432" duration="3387000" />
+      <workItem from="1619421158469" duration="1447000" />
+      <workItem from="1619546559125" duration="2891000" />
+      <workItem from="1619601307960" duration="10234000" />
+      <workItem from="1619682392025" duration="7346000" />
+      <workItem from="1619700180125" duration="941000" />
+      <workItem from="1619891764559" duration="348000" />
+      <workItem from="1628246470930" duration="1416000" />
+      <workItem from="1628769886131" duration="1575000" />
+      <workItem from="1629110293565" duration="7179000" />
+      <workItem from="1629199979633" duration="11000" />
+      <workItem from="1629202677908" duration="624000" />
+      <workItem from="1630441592586" duration="266000" />
+      <workItem from="1630573176940" duration="3325000" />
+      <workItem from="1631008734511" duration="728000" />
+      <workItem from="1631714244184" duration="721000" />
+      <workItem from="1631961045394" duration="5135000" />
+      <workItem from="1632125954964" duration="563000" />
+      <workItem from="1632138384299" duration="793000" />
+      <workItem from="1632144863390" duration="1080000" />
+      <workItem from="1632303289340" duration="1108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1273" y="0" width="1294" height="1407" key="dock-window-1" timestamp="1619128484890">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1273" y="0" width="1294" height="1407" key="dock-window-1/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1619128484890" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

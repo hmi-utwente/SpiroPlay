@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 179e6af90850e8a45972550d8d7beae0, type: 3}
+  m_Name: VivianneFeedback
+  m_EditorClassIdentifier: 
+  video: {fileID: 32900000, guid: 54790fc125e110649b4f1334e9822b73, type: 3}
+  instructions: '1. Ga rechtop zitten
+
+    2. Zet de neusklem op je neus
+
+    3.
+    Blaas eerst helemaal leeg
+
+    4. Doe dan het mondstuk in je mond, met je tanden
+    erop en lippen eromheen
+
+    5. En start dan met inademen'
+  instructionsAudio: {fileID: 8300000, guid: a59049cc2fe86cd4fbb6cfec15b3ccfc, type: 3}
+  noErrors: Goed gedaan!
+  noErrorsAudio: {fileID: 8300000, guid: 6bfeed09d5a42a94a8a1d0f5ec40b0a3, type: 3}
+  testInterrupted: Oeps er is iets fout gegaan, laten we het nog een keer proberen!
+  testInterruptedAudio: {fileID: 8300000, guid: 7c11450ae97fd6946b9150badcb0e4a5,
+    type: 3}
+  badStartOfExpiration: Goed lang uitgeblazen! Maar probeer nu ook in 1 KEER zo HARD
+    mogelijk uit te blazen
+  badStartOfExpirationAudio: {fileID: 8300000, guid: c9580f35bcf654947b2e6be0c531ae78,
+    type: 3}
+  badEndOfExpiration: Goed hard uitgeblazen! Maar probeer nu ook LANGER uit te blazen
+    totdat je HELEMAAL LEEG bent
+  badEndOfExpirationAudio: {fileID: 8300000, guid: 94c23be94a604d54eb8b6f3b423abd78,
+    type: 3}
+  coughDetected: Goed gedaan! Maar moest je hoesten? Dan kan het helpen om een slokje
+    water te drinken
+  coughDetectedAudio: {fileID: 8300000, guid: 516df3019afa34e4aacd0b4cae9ac878, type: 3}
+  badStartAndBadEnd: Probeer in 1 KEER zo HARD mogelijk uit te  blazen
+  badStartAndBadEndAudio: {fileID: 8300000, guid: 2fc27be51031c3a43b5bb07f80a82ddd,
+    type: 3}
+  badStartAndCough: Goed lang uitgeblazen! Maar moest je hoesten? Dan kan het helpen
+    om een slokje water te drinken
+  badStartAndCoughAudio: {fileID: 8300000, guid: cae88bdb3230ff44b862cf43cbe67cc6,
+    type: 3}
+  badEndAndCough: Goed hard uitgeblazen! Maar moest je hoesten? Dan kan het helpen
+    om een slokje water te drinken
+  badEndAndCoughAudio: {fileID: 8300000, guid: 392f99114344d5040b5de7396d553359, type: 3}
+  badStartAndBadEndAndCough: Probeer in 1 KEER zo HARD mogelijk uit te blazen. Moest
+    je hoesten? Dan kan het helpen om een slokje water te drinken
+  badStartAndBadEndAndCoughAudio: {fileID: 8300000, guid: 7e3f37270f0a36b4e9e2899dc38abd7d,
+    type: 3}
+  restartMetaphor: We gaan door naar de volgende meting!
+  restartMetaphorAudio: {fileID: 8300000, guid: b8063e974939f654d8b128d2c0bbf868,
+    type: 3}
+  endSessionSucces: Je bent klaar met de blaastest
+  endSessionSuccesAudio: {fileID: 8300000, guid: ffee3c389ae07d243a09fe4a4f0d598f,
+    type: 3}
+  endSessionLimit: Dankjewel, je bent nu klaar met de blaas-test
+  endSessionLimitAudio: {fileID: 8300000, guid: 54bbe145ac656e140b6a1bed06d15865,
+    type: 3}

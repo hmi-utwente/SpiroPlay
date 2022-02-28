@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HairAnimation
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e79206ea2734b124b933f76e2eaad056, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b934e000add41674cb542767b142f50e, type: 3}
+  - {fileID: 21300000, guid: e035370013023f3428b4260286e06393, type: 3}
+  - {fileID: 21300000, guid: 3bfec070c27f935408db00526bb56386, type: 3}
+  - {fileID: 21300000, guid: ef1dd59041874274b9a606544c3b8dfc, type: 3}
+  - {fileID: 21300000, guid: d99669b025cadb44db44181bbed8f0a2, type: 3}
+  - {fileID: 21300000, guid: d7483e91060c2ce4da8a6994f566739b, type: 3}
+  - {fileID: 21300000, guid: 4ffcb0025c7337a4e8b161f7acf0e64c, type: 3}
+  - {fileID: 21300000, guid: 08612b822a68584428c14c7c112e7cb3, type: 3}
+  - {fileID: 21300000, guid: 86a4cf03fe0ca2341a21e418f25223c8, type: 3}
+  - {fileID: 21300000, guid: fba3ab9367a65dd43a0db64713898fc3, type: 3}
+  - {fileID: 21300000, guid: 1fe42b343cdca4e4b82b71e1d027779e, type: 3}
+  - {fileID: 21300000, guid: c2523184dbd3ff945ae263faa6c54c15, type: 3}
+  - {fileID: 21300000, guid: d97b08a43df8f8c4d9782c281d94c52a, type: 3}
+  - {fileID: 21300000, guid: 53073245f3b3aec448e8a7fe4e50ac52, type: 3}
+  - {fileID: 21300000, guid: df51bfb5fce4d754cb6a6c7fbbacde27, type: 3}
+  - {fileID: 21300000, guid: 1cce442693130704ab219d75429ed980, type: 3}
+  - {fileID: 21300000, guid: 1a115b26b50b0f54e98844db8d7ab56f, type: 3}
+  - {fileID: 21300000, guid: 15ef5c27ca5cbcd41a8d0aacfca144a9, type: 3}
+  - {fileID: 21300000, guid: ac84997755609854093962c89cf61cba, type: 3}
+  - {fileID: 21300000, guid: ab5255a75c26bc14ba844f9486e88b0f, type: 3}
+  - {fileID: 21300000, guid: b34332c7c2521d742b65db3d0742099d, type: 3}
+  - {fileID: 21300000, guid: 92ee54f7c9db6c242b92171b8deb2145, type: 3}
+  - {fileID: 21300000, guid: bfb24c38ea3628941b2565ecc0f63ac2, type: 3}
+  - {fileID: 21300000, guid: e663ed19c85116c42b04ba0fc415f5c2, type: 3}
+  - {fileID: 21300000, guid: 85320c9921e072c48970ea902963657b, type: 3}
+  - {fileID: 21300000, guid: e956760adb77fe5408b051ee0d8c5eb1, type: 3}
+  - {fileID: 21300000, guid: 44aa4b7a0b410ea419a6dfbc22b572ca, type: 3}
+  - {fileID: 21300000, guid: b60806db5d5c24a4093dc0ee56d6d799, type: 3}
+  - {fileID: 21300000, guid: 8dd61cdb04c74064c83c957cbbbf71fe, type: 3}
+  - {fileID: 21300000, guid: 92510e9cf6036ee468f7cbe5c40d96b1, type: 3}
+  - {fileID: 21300000, guid: 3536242da70602c44bce8827c28a8a7e, type: 3}
+  - {fileID: 21300000, guid: 583c493d20f924a4d93055c5789712de, type: 3}
+  - {fileID: 21300000, guid: 3318e15f8cc105543831cd1c135c9a75, type: 3}
+  - {fileID: 21300000, guid: 9b8d18afc829e69499999f42c049048c, type: 3}
+  - {fileID: 21300000, guid: 88e6c9ef981c8c44588744f800a17519, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dog_final_3
+  - dog_final_0000s_0003_dog_final16
+  - dog_final_0000s_0006_dog_final13
+  - dog_final_0000s_0013_dog_final7
+  - dog_final_9
+  - dog_final_0000s_0002_dog_final17
+  - dog_final_8
+  - dog_final_0000s_0001_dog_final18
+  - dog_final_5
+  - dog_final_6
+  - dog_final_0000s_0017_dog_final3
+  - dog_final_4
+  - dog_final_7
+  - dog_final_0000s_0018_dog_final2
+  - dog_final_10
+  - dog_final_13
+  - dog_final_12
+  - dog_final_0000s_0000_dog_final19
+  - dog_final_0000s_0014_dog_final6
+  - dog_final_0000s_0008_dog_final11
+  - dog_final_0000s_0016_dog_final4
+  - dog_final15
+  - dog_final_1
+  - dog_final_0000s_0004_dog_final15
+  - dog_final_0000s_0007_dog_final12
+  - dog_final_0000s_0005_dog_final14
+  - dog_final_0000s_0009_dog_final10-copy
+  - dog_final_14
+  - dog_final_0000s_0010_dog_final10
+  - dog_final_0000s_0011_dog_final9
+  - dog_final_2
+  - dog_final_0000s_0012_dog_final8
+  - dog_final_0000s_0015_dog_final5
+  - dog_final_11
+  - dog_final_0000s_0019_dog_final1
+  m_Tag: HairAnimation
+  m_IsVariant: 0

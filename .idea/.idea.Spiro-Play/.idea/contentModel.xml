@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tinqk\AppData\local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tinqk\AppData\local\JetBrains\Rider2020.2\resharper-host\local\Transient\Rider\v202\SolutionCaches\_Spiro-Play.-1088913697.00" t="ExcludeRecursive" />
+    <e p="C:\Users\tinqk\Documents\Unity Projects\Spiro-Play" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="M0_Test" t="Include">
+          <e p="M0_Manager.cs" t="Include" />
+          <e p="M12_Manager.cs" t="Include" />
+        </e>
+        <e p="M10_Hurdles" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="dataPasserHurdles.cs" t="Include" />
+            <e p="HurdlePlayerDetector.cs" t="Include" />
+            <e p="M10_Manager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="M11_Fishing" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CameraBehavior.cs" t="Include" />
+            <e p="EnvironmentSpawner.cs" t="Include" />
+            <e p="FishBehaviour.cs" t="Include" />
+            <e p="GroundTeleporter.cs" t="Include" />
+            <e p="M11_Manager.cs" t="Include" />
+            <e p="NetBehaviour.cs" t="Include" />
+          </e>
+        </e>
+        <e p="M1_Car" t="Include">
+          <e p="CarBehaviour.cs" t="Include" />
+          <e p="M1_Manager.cs" t="Include" />
+          <e p="SpeedometerBehaviour.cs" t="Include" />
+        </e>
+        <e p="M2_Diving" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="DuikplankScript.cs" t="Include" />
+            <e p="JumpScript.cs" t="Include" />
+            <e p="M2_Manager.cs" t="Include" />
+            <e p="Schoonspringer.cs" t="Include" />
+            <e p="WaterScript.cs" t="Include" />
+          </e>
+        </e>
+        <e p="M3_Balloons" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="ArrowBehavior.cs" t="Include" />
+            <e p="BalloonBehavior.cs" t="Include" />
+            <e p="CameraBehavior.cs" t="Include" />
+            <e p="M3_Manager.cs" t="Include" />
+            <e p="ProgressBar.cs" t="Include" />
+          </e>
+        </e>
+        <e p="M4_Tides" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="M4_Manager.cs" t="Include" />
+            <e p="SeaScript.cs" t="Include" />
+          </e>
+        </e>
+        <e p="M5_Dandelion" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CameraBehavior.cs" t="Include" />
+            <e p="LadybugBehavior.cs" t="Include" />
+            <e p="LeafBehaviour.cs" t="Include" />
+            <e p="M5_Manager.cs" t="Include" />
+            <e p="SeedBehavior.cs" t="Include" />
+          </e>
+        </e>
+        <e p="M6_Dragon" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+            <e p="Flammable.cs" t="Include" />
+            <e p="M6_Manager.cs" t="Include" />
+            <e p="Oil.cs" t="Include" />
+            <e p="RoetvlekBehaviour.cs" t="Include" />
+            <e p="SmokeMaker.cs" t="Include" />
+          </e>
+        </e>
+        <e p="M7_Dog" t="Include">
+          <e p="DogBehaviour.cs" t="Include" />
+          <e p="M7_Manager.cs" t="Include" />
+          <e p="ShampooBottleBehaviour.cs" t="Include" />
+        </e>
+        <e p="M8_Bowling" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Bowlingball_Behavior.cs" t="Include" />
+            <e p="Camera_Behavior.cs" t="Include" />
+            <e p="Discoball_Behavior.cs" t="Include" />
+            <e p="M8_Manager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="M9_Soccer" t="Include">
+          <e p="AudienceBehaviour.cs" t="Include" />
+          <e p="CameraBehavior.cs" t="Include" />
+          <e p="M9_Manager.cs" t="Include" />
+        </e>
+        <e p="Menus" t="Include">
+          <e p="ConnectionWarnings" t="Include">
+            <e p="ConnectionCanvas.cs" t="Include" />
+          </e>
+          <e p="Menu_History" t="Include">
+            <e p="HistoryInfoPanel.cs" t="Include" />
+            <e p="HistoryMenuBehaviour.cs" t="Include" />
+          </e>
+          <e p="Menu_LevelSelection" t="Include">
+            <e p="CurrencyCounter.cs" t="Include" />
+            <e p="LevelSelectionMenu.cs" t="Include" />
+            <e p="MetaphorButton.cs" t="Include" />
+          </e>
+          <e p="Menu_Main" t="Include">
+            <e p="MainMenuBehaviour.cs" t="Include" />
+          </e>
+          <e p="Menu_Options" t="Include">
+            <e p="InfoButton.cs" t="Include" />
+            <e p="OptionsMenu.cs" t="Include" />
+            <e p="UserDisplay.cs" t="Include" />
+          </e>
+          <e p="Menu_UserSelection" t="Include">
+            <e p="UserSelectionMenu.cs" t="Include" />
+          </e>
+          <e p="Overlay" t="Include">
+            <e p="Overlay.cs" t="Include" />
+          </e>
+          <e p="Tutorial" t="Include">
+            <e p="TutorialController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Awesome Charts" t="Include">
+            <e p="Core" t="Include">
+              <e p="Examples" t="Include">
+                <e p="BarChart 1" t="Include">
+                  <e p="BarChartController1.cs" t="Include" />
+                </e>
+                <e p="BarChart 2" t="Include">
+                  <e p="BarChartController2.cs" t="Include" />
+                </e>
+                <e p="LineChart 1" t="Include">
+                  <e p="LineChartController1.cs" t="Include" />
+                </e>
+                <e p="LineChart 2" t="Include">
+                  <e p="LineChartController2.cs" t="Include" />
+                </e>
+                <e p="PieChart 2" t="Include">
+                  <e p="PieChartController.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Axis" t="Include">
+                  <e p="AxisBase.cs" t="Include" />
+                  <e p="AxisBounds.cs" t="Include" />
+                  <e p="AxisRendererBase.cs" t="Include" />
+                  <e p="XAxis.cs" t="Include" />
+                  <e p="XAxisBarChartRenderer.cs" t="Include" />
+                  <e p="XAxisRenderer.cs" t="Include" />
+                  <e p="YAxis.cs" t="Include" />
+                  <e p="YAxisRenderer.cs" t="Include" />
+                </e>
+                <e p="Base" t="Include">
+                  <e p="ACMonoBehaviour.cs" t="Include" />
+                </e>
+                <e p="Chart" t="Include">
+                  <e p="AxisBaseChart.cs" t="Include" />
+                  <e p="BarChart" t="Include">
+                    <e p="Bar.cs" t="Include" />
+                    <e p="BarCharPositioner.cs" t="Include" />
+                    <e p="BarChart.cs" t="Include" />
+                    <e p="BarChartConfig.cs" t="Include" />
+                    <e p="BarSizingMethod.cs" t="Include" />
+                  </e>
+                  <e p="BaseChart.cs" t="Include" />
+                  <e p="ChartValuePopup.cs" t="Include" />
+                  <e p="LineChart" t="Include">
+                    <e p="LineChart.cs" t="Include" />
+                    <e p="LineChartBackground.cs" t="Include" />
+                    <e p="LineChartConfig.cs" t="Include" />
+                    <e p="LineEntryIndicator.cs" t="Include" />
+                  </e>
+                  <e p="PieChart" t="Include">
+                    <e p="PieChart.cs" t="Include" />
+                    <e p="PieChartClickSelectionBehaviour.cs" t="Include" />
+                    <e p="PieChartConfig.cs" t="Include" />
+                    <e p="PieChartEntryView.cs" t="Include" />
+                    <e p="PieChartValueIndicator.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Data" t="Include">
+                  <e p="AxisChartData.cs" t="Include" />
+                  <e p="BarData.cs" t="Include" />
+                  <e p="BarDataSet.cs" t="Include" />
+                  <e p="BarEntry.cs" t="Include" />
+                  <e p="ChartData.cs" t="Include" />
+                  <e p="DataSet.cs" t="Include" />
+                  <e p="Entry.cs" t="Include" />
+                  <e p="LineData.cs" t="Include" />
+                  <e p="LineDataSet.cs" t="Include" />
+                  <e p="LineEntry.cs" t="Include" />
+                  <e p="PieData.cs" t="Include" />
+                  <e p="PieDataSet.cs" t="Include" />
+                  <e p="PieEntry.cs" t="Include" />
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="AxisBaseEditor.cs" t="Include" />
+                  <e p="BarChartConfigEditor.cs" t="Include" />
+                  <e p="BarEntryDrawer.cs" t="Include" />
+                  <e p="ChartMenuItems.cs" t="Include" />
+                  <e p="LineEntryDrawer.cs" t="Include" />
+                  <e p="XAxisEditor.cs" t="Include" />
+                  <e p="YAxisEditor.cs" t="Include" />
+                </e>
+                <e p="Legend" t="Include">
+                  <e p="LegendEntry.cs" t="Include" />
+                  <e p="LegendEntryView.cs" t="Include" />
+                  <e p="LegendView.cs" t="Include" />
+                </e>
+                <e p="UI" t="Include">
+                  <e p="IValueFormatter.cs" t="Include" />
+                  <e p="PivotValue.cs" t="Include" />
+                  <e p="SimpleValueFormatter.cs" t="Include" />
+                  <e p="ViewCreator.cs" t="Include" />
+                  <e p="XAxisBarChartValueFormatter.cs" t="Include" />
+                </e>
+                <e p="Utils" t="Include">
+                  <e p="BezierUtils.cs" t="Include" />
+                  <e p="Defaults.cs" t="Include" />
+                  <e p="MathUtils.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Dependencies" t="Include">
+              <e p="unity-ui-extensions" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Primitives" t="Include">
+                    <e p="UILineRenderer.cs" t="Include" />
+                    <e p="UIPrimitiveBase.cs" t="Include" />
+                  </e>
+                  <e p="Utilities" t="Include">
+                    <e p="BezierPath.cs" t="Include" />
+                    <e p="CableCurve.cs" t="Include" />
+                    <e p="SetPropertyUtility.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Confetti FX" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="Fleck" t="Include">
+            <e p="ConnectionNotAvailableException.cs" t="Include" />
+            <e p="FleckLog.cs" t="Include" />
+            <e p="FrameType.cs" t="Include" />
+            <e p="HandlerFactory.cs" t="Include" />
+            <e p="Handlers" t="Include">
+              <e p="ComposableHandler.cs" t="Include" />
+              <e p="Draft76Handler.cs" t="Include" />
+              <e p="FlashSocketPolicyRequestHandler.cs" t="Include" />
+              <e p="Hybi13Handler.cs" t="Include" />
+            </e>
+            <e p="Helpers" t="Include">
+              <e p="FleckRuntime.cs" t="Include" />
+            </e>
+            <e p="Interfaces" t="Include">
+              <e p="IHandler.cs" t="Include" />
+              <e p="ISocket.cs" t="Include" />
+              <e p="IWebSocketConnection.cs" t="Include" />
+              <e p="IWebSocketConnectionInfo.cs" t="Include" />
+              <e p="IWebSocketServer.cs" t="Include" />
+            </e>
+            <e p="IntExtensions.cs" t="Include" />
+            <e p="QueuedStream.cs" t="Include" />
+            <e p="ReadState.cs" t="Include" />
+            <e p="RequestParser.cs" t="Include" />
+            <e p="SocketWrapper.cs" t="Include" />
+            <e p="SubProtocolNegotiationFailureException.cs" t="Include" />
+            <e p="SubProtocolNegotiator.cs" t="Include" />
+            <e p="WebSocketConnection.cs" t="Include" />
+            <e p="WebSocketConnectionInfo.cs" t="Include" />
+            <e p="WebSocketException.cs" t="Include" />
+            <e p="WebSocketHttpRequest.cs" t="Include" />
+            <e p="WebSocketServer.cs" t="Include" />
+            <e p="WebSocketStatusCodes.cs" t="Include" />
+          </e>
+          <e p="LeanTween" t="Include">
+            <e p="Editor" t="Include">
+              <e p="LeanTweenDocumentationEditor.cs" t="Include" />
+            </e>
+            <e p="Framework" t="Include">
+              <e p="LeanAudio.cs" t="Include" />
+              <e p="LeanSmooth.cs" t="Include" />
+              <e p="LeanTest.cs" t="Include" />
+              <e p="LeanTween.cs" t="Include" />
+              <e p="LeanTweenExt.cs" t="Include" />
+              <e p="LTDescr.cs" t="Include" />
+              <e p="LTDescrOptional.cs" t="Include" />
+              <e p="LTSeq.cs" t="Include" />
+            </e>
+            <e p="License.txt" t="Include" />
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="NativeShare" t="Include">
+            <e p="Android" t="Include">
+              <e p="NSCallbackHelper.cs" t="Include" />
+              <e p="NSShareResultCallbackAndroid.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="NSPostProcessBuild.cs" t="Include" />
+            </e>
+            <e p="iOS" t="Include">
+              <e p="NSShareResultCallbackiOS.cs" t="Include" />
+            </e>
+            <e p="NativeShare.cs" t="Include" />
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="SoftAlphaUIMask" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="CutOffFader.cs" t="Include" />
+                <e p="CutOffSlider.cs" t="Include" />
+                <e p="GraphicIgnoreRaycast.cs" t="Include" />
+                <e p="MapUIScript.cs" t="Include" />
+                <e p="TranslateRotateControler.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="SoftMaskScript.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="SoftMaskShader.shader" t="Include" />
+              <e p="SoftMaskShaderText.shader" t="Include" />
+            </e>
+          </e>
+          <e p="TextMesh Pro" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="LiberationSans - OFL.txt" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="LineBreaking Following Characters.txt" t="Include" />
+              <e p="LineBreaking Leading Characters.txt" t="Include" />
+              <e p="Shaders" t="Include">
+                <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+                <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+                <e p="TMP_Bitmap.shader" t="Include" />
+                <e p="TMP_SDF Overlay.shader" t="Include" />
+                <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+                <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+                <e p="TMP_SDF-Mobile.shader" t="Include" />
+                <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+                <e p="TMP_SDF-Surface.shader" t="Include" />
+                <e p="TMP_SDF.shader" t="Include" />
+                <e p="TMP_Sprite.shader" t="Include" />
+                <e p="TMPro.cginc" t="Include" />
+                <e p="TMPro_Properties.cginc" t="Include" />
+                <e p="TMPro_Surface.cginc" t="Include" />
+              </e>
+            </e>
+            <e p="Sprites" t="Include">
+              <e p="EmojiOne Attribution.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Transition" t="Include">
+            <e p="LevelChanger.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Spirometry" t="Include">
+          <e p="Debugging" t="Include">
+            <e p="Debugger.cs" t="Include" />
+            <e p="GarbageCollector.cs" t="Include" />
+            <e p="PlotBehaviour.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="CustomInspector_SpiroManager.cs" t="Include" />
+          </e>
+          <e p="Generic" t="Include">
+            <e p="RandomizeColorOnStart.cs" t="Include" />
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="Cooldown.cs" t="Include" />
+            <e p="Datastream.cs" t="Include" />
+            <e p="Event.cs" t="Include" />
+            <e p="FeedbackConfig.cs" t="Include" />
+            <e p="Settings.cs" t="Include" />
+          </e>
+          <e p="SpiroController" t="Include">
+            <e p="FakeDataImporter.cs" t="Include" />
+            <e p="Logger.cs" t="Include" />
+            <e p="RealtimeDataProcessor.cs" t="Include" />
+            <e p="SessionManager.cs" t="Include" />
+            <e p="Spiro_Manager.cs" t="Include" />
+            <e p="SpiroReceiver.cs" t="Include" />
+            <e p="UserStorage.cs" t="Include" />
+          </e>
+          <e p="Statics" t="Include">
+            <e p="ExtensionMethods.cs" t="Include" />
+            <e p="Math.cs" t="Include" />
+            <e p="SpiroData.cs" t="Include" />
+            <e p="SpiroResult.cs" t="Include" />
+            <e p="SpiroResultSimple.cs" t="Include" />
+            <e p="Validation.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="NativeShare.Editor.csproj" t="IncludeRecursive" />
+      <e p="NativeShare.Runtime.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Spiro-Play.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

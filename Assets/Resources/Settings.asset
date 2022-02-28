@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32a7082134a72dc42a46154c3a3e51c0, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  MinimumFVC: 0.1
+  MaximumFVC: 12
+  MinimumPEF: 0.1
+  MaximumPEF: 15
+  DefaultPeakFlow: 7
+  DefaultPredictedFVC: 6
+  DefaultPredictedPEF: 8
+  startingCoinAmount: 4
+  coinWinAmountSuccessfull: 3
+  coinWinAmountUnsuccessfull: 2
+  MetaphorInfo:
+  - index: 0
+    id: M0_Test
+    displayName: Gouden Standaard - met feedback
+    unlockedPerDefault: 1
+  - index: 1
+    id: M1_Car
+    displayName: Auto
+    unlockedPerDefault: 1
+  - index: 2
+    id: M2_Diving
+    displayName: Schoonspringen
+    unlockedPerDefault: 1
+  - index: 3
+    id: M3_Balloons
+    displayName: Ballonnen schieten
+    unlockedPerDefault: 1
+  - index: 4
+    id: M4_Tides
+    displayName: Eb en vloed
+    unlockedPerDefault: 0
+  - index: 5
+    id: M5_Dandelion
+    displayName: Paardebloem blazen
+    unlockedPerDefault: 0
+  - index: 6
+    id: M6_Dragon
+    displayName: Vuurspuwende draak
+    unlockedPerDefault: 0
+  - index: 7
+    id: M7_Dog
+    displayName: Honden salon
+    unlockedPerDefault: 0
+  - index: 8
+    id: M8_Bowling
+    displayName: Bowlen
+    unlockedPerDefault: 0
+  - index: 9
+    id: M9_Soccer
+    displayName: Voetballen
+    unlockedPerDefault: 0
+  - index: 10
+    id: M10_Hurdles
+    displayName: Hordelopen
+    unlockedPerDefault: 0
+  - index: 11
+    id: M11_Fishing
+    displayName: Vissen
+    unlockedPerDefault: 0
+  - index: 12
+    id: M12_Test2
+    displayName: Gouden Standaard - zonder feedback
+    unlockedPerDefault: 1
+  sessionLimitPerDay: 2
+  ageThreshold: 7
+  GoalModifier: 1
+  DelayAfterEndDetected: 4
+  StartOfTestFlowThreshold: -0.3
+  SwitchToExpirationFlowThreshold: 0.4
+  EndOfTestFlowThreshold: 0.1
+  Feedback: {fileID: 11400000, guid: 1c73c6aaa9555b247a73f1cd45cfeab3, type: 2}
