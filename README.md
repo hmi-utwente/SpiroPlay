@@ -1,7 +1,7 @@
 # SpiroPlay
 A suite-of-games breathing game app for children with asthma, including a first rule-based version for fault detection. For instructions of use see https://youtu.be/MSPVP-FCaYc.
 
-![Level selection screen](Assets/Resources/Gifs & Videos/level_selection.png)
+![Level selection screen](https://github.com/hmi-utwente/SpiroPlay/blob/master/Assets/Resources/Gifs%20%26%20Videos/level_selection.png)
 
 The projects starts from the point we have gathered the realtime flow data from a handheld spirometer device (through our own middleware which we can't release). The expected stream contains a flow per 10-ish ms. Various handheld spirometer devices can deliver such a stream, although it is important to have both measures for inhalation and exhalation.
 
