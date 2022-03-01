@@ -25,7 +25,7 @@ Regards, van Delden, Robby
 
 Created by: Vogel, Koen
 
-Building on development work of:
+**Building on development work of:**  
 (_BLE) networking:_ Kevin Smid and Randy Klaassen  
 _fault detection and improvements:_ de With, Vivianne and Matienne van der Kamp  
 _co-design basis:_ thanks to the children of BSO de Vlinder; van Delden, Robby; Zwart, Nynke; and Danny Plass - Oude Bos  
